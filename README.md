@@ -6,6 +6,17 @@ I make small, lightweight Minecraft mods focused on vanilla-friendly mechanics �
 
 ## Minecraft Mods
 
+### 🌟 Polestar
+Use a vanilla Spyglass to find the North Star in the Overworld night sky. Center it in your lens to hear a quiet chime and briefly reveal a compass rose that rotates as you turn — no coordinates, minimap, or permanent HUD.
+
+**Minecraft:** 26.2  
+**Loader:** Fabric (client-side)  
+**License:** MIT
+
+[View on Modrinth](https://modrinth.com/mod/polestar)
+
+---
+
 ### 🛡️ Golden Armor with Regen
 Wear vanilla gold armor to gain passive Regeneration. The more pieces you equip, the stronger the effect becomes — up to Regeneration IV with a full set.
 
